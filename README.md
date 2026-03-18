@@ -4,7 +4,7 @@
 # Hi there 👋, I'm Shlok Tiwari
 
 🎓 B.Tech CSE Student | 💻 Web Developer | 🤖 AI Automation
-📍 Lucknow,India.  
+📍 India  
 
 ---
 
@@ -18,12 +18,12 @@
 ---
 
 ## 🛠️ Tech Stack
-
 ### 💻 Languages
 - C  
 - C++
 - Python  
-- JavaScript  
+- JavaScript
+- Java 
 
 ### 🌐 Frontend
 - HTML  
@@ -77,6 +77,7 @@
 > "The only way to deal with this cruel world is to become so strong that your very existence becomes an act of rebellion."
 
 ---
+⭐️ From [ShlokTiwari](https://github.com/shlokktiwarii)
 
 
 
