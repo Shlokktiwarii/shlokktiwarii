@@ -18,8 +18,7 @@
 ---
 
 ## 🛠️ Tech Stack
-### 💻 Languages
-- C  
+### 💻 Languages  
 - C++
 - Python  
 - JavaScript
