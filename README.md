@@ -22,7 +22,7 @@
 - C++
 - Python  
 - JavaScript
-- Java 
+
 
 ### 🌐 Frontend
 - HTML  
@@ -69,13 +69,8 @@
 - 💼 LinkedIn: [www.linkedin.com/in/shlok-tiwari-253948280]  
 - 📧 Email: shlokt16@gmail.com  
 
----
 
-## 💡 Quote
 
-> "The only way to deal with this cruel world is to become so strong that your very existence becomes an act of rebellion."
-
----
 ⭐️ From [ShlokTiwari](https://github.com/shlokktiwarii)
 
 
