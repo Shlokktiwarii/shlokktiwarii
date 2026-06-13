@@ -31,6 +31,7 @@
 - React.js
 ### 🧑‍💻 Backend
 - Django
+- Flask
 - Express.js
 - Node.js
 
