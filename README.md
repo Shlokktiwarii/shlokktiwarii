@@ -10,18 +10,18 @@
 
 ## 🚀 About Me
 
-- 🎯 Currently in 2nd Year of B.Tech CSE  
-- 💡 Passionate about Web Development & AI Automation RAG systems  
-- 🧠 Learning DSA + Development together  
+- 🎯 Currently in 3rd Year of B.Tech CSE  
+- 💡 Passionate about Web Development & AI Automation RAG systems   
 - 📈 Goal: Crack top tech companies internships & build impactful projects  
 
 ---
 
 ## 🛠️ Tech Stack
 ### 💻 Languages  
-- C++
 - Python  
 - JavaScript
+- C++
+- Java
 
 
 ### 🌐 Frontend
