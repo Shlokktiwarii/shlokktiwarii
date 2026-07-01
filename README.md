@@ -20,6 +20,7 @@
 ### 💻 Languages  
 - Python  
 - JavaScript
+- Typescript
 - C++
 - Java
 
