@@ -41,8 +41,6 @@
 - Copilot,Chatgpt,Claude and other AI tools.
 - Chrome DevTools  
 
----
-
 ## 📊 GitHub Stats
 
 ![Shlok's GitHub stats](https://github-readme-stats.vercel.app/api?username=shlokktiwarii&show_icons=true&theme=radical)
