@@ -1,6 +1,4 @@
 ## 🚀 Shlok Tiwari | Aspiring Software Engineer
-
-```md
 # Hi there 👋, I'm Shlok Tiwari
 
 🎓 B.Tech CSE Student | 💻 Web Developer | 🤖 AI Automation
