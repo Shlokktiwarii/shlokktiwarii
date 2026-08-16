@@ -55,7 +55,7 @@ My current focus is on understanding and building modern AI systems — from **L
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=shlokktiwarii&theme=transparent&hide_border=true" />
 </p>
 
 ---
