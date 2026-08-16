@@ -48,8 +48,8 @@ My current focus is on understanding and building modern AI systems — from **L
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shlokktiwarii&show_icons=true&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shlokktiwarii&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 ### 🔥 GitHub Streak
